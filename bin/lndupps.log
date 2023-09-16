@@ -1,0 +1,32 @@
+DISK USAGE BEFORE: 6.5G	.
+ln: 2034rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d36: No such file or directory
+ln: 2034rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d36: No such file or directory
+ln: 2199rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d35: No such file or directory
+ln: 2199rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d35: No such file or directory
+ln: 2198rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d42: No such file or directory
+ln: 2198rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d42: No such file or directory
+ln: 2085rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d181: No such file or directory
+ln: 2085rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d181: No such file or directory
+ln: 2225rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d105: No such file or directory
+ln: 2225rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d105: No such file or directory
+ln: 2223rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d148: No such file or directory
+ln: 2223rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d148: No such file or directory
+ln: 2200rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d41: No such file or directory
+ln: 2200rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d41: No such file or directory
+ln: 2155rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d93: No such file or directory
+ln: 2155rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d93: No such file or directory
+ln: 2187rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d77: No such file or directory
+ln: 2187rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d77: No such file or directory
+ln: 2089rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d64: No such file or directory
+ln: 2089rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d64: No such file or directory
+ln: 2228rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d52: No such file or directory
+ln: 2228rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d52: No such file or directory
+DUPPS[7602]: process[25]: cd: /Users/don/downloads/factbook/lndupps.in: [No such file or directory]
+rm: lndupps.in: No such file or directory
+ln: 2188rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d45: No such file or directory
+ln: 2188rank.html%3fcountryname%3dUnited Arab Emirates%26countrycode%3dae%26regionCode%3dmde%26rank%3d45: No such file or directory
+ln: 2108rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d9: No such file or directory
+ln: 2108rank.html%3fcountryname%3dAntigua and Barbuda%26countrycode%3dac%26regionCode%3dcam%26rank%3d9: No such file or directory
+Found 30476/30476 dupplicate files, reduced to 8752 unique files
+This process saved 1579/2455 MB, the 8752 unique files now representing 876 MB
+DISK USAGE AFTER: 4.9G	.
